@@ -1,38 +1,45 @@
 # jemdoc: menu{MENU}{index.html} 
-= Armin (Mehdi) Arjmand 
+= Mehdi (Armin) Arjmand 
 
 ~~~
 {}{img_left}{Armin_Arjmand.png}{alt text}{300}{300}{}
-Armin Arjmand\n 
+Mehdi (Armin) Arjmand\n 
 B.Sc. of Electrical Engineering\n
 [https://ece.ut.ac.ir/en School of Electrical and Computer Engineering ]\n
 [https://ut.ac.ir/en University of Tehran]\n
 Email: [mailto:arjmandm@ut.ac.ir arjmandm@ut.ac.ir]\n
+
 ~~~
 
 == About
 
-I am currently an undergraduate research assistant working under supervision of Professor [https://ieeexplore.ieee.org/author/37355353200 Hadi Moradi]. I am interested in Optimization and Multimodal Machine Learning. Currently I am working on Multimodal Sentiment Analysis and Emotion Recognition. 
+I am interested in Multimodal Machine Learning, Multimodal Language Analysis, and Optimization. \n
+Currently, I am an undergraduate research assistant working under the supervision of Professor [https://ieeexplore.ieee.org/author/37355353200 Hadi Moradi] on Multimodal Language Analysis. 
 
 CV available upon request.
 
-== Interests and current research
 
-- Multimodal Machine Learning, Multimodal Interaction.
-- Linguistics Technology.
-- NLP(Sentiment Analysis, Language Models), Speech Processing (ASR,SER). 
+== Interests
+
+- Multimodal Machine Learning.
+- Multimodal Language Analysis (Multimodal Sentiment Analysis, Emotion Recognition).
+- Linguistics Technology (NLP, Speech).
 - Affective Computing.
-- Self-Supervised Representation Learning.
-- Convex & Non-Convex Optimization.
+- Self-Supervised Representation Learning (Transformer-based, Computer Vision SSL).
+- Convex Optimization.
 
 
 == Education
 
 
-- B.Sc. in Electrical Engineering (Minor Degree in Computer Engineering,), [http://ece.ut.ac.ir/en University of Tehran, School of ECE],
-	Sep. 2016 - Sep. 2021
+: {*B. Sc. in Electrical Engineering (Minor Degree in Computer Engineering)* ( Sep. 2016 - Sep. 2021 ),} 
+	[http://ece.ut.ac.ir/en University of Tehran, School of ECE], Tehran, Iran.\n
+	Final thesis: TEASEL: a Transformer-Based Speech-Prefixed Language Model
 
-== Contact
 
-
-[https://www.linkedin.com/in/mehdi-arjmand-6aa607133/ Linkedin], [https://github.com/arminarj Github]
+== Publications
+~~~
+{}{img_left}{teasel_fig_1.png}{alt text}{255}{100}{}  \n 
+- *Mehdi Arjmand*, Mohammad Javad Dousti, and Hadi Moradi, *"/TEASEL: a Transformer-Based Speech-Prefixed Language Model/"*, arXiv preprint arXiv:2109.05522, 2021
+\n [teasel.html Website] | [https://arxiv.org/abs/2109.05522 Arxiv] | [https://github.com/arminarj/teasel Code]
+~~~
