@@ -26,15 +26,12 @@ method is 72\% smaller than the SoTA model.
 
 ~~~
 {}
-@misc{arjm2021teasel,\n
-    title={TEASEL: A Transformer-Based Speech-Prefixed Language Model},\n
-    author={Mehdi Arjmand and Mohammad Javad Dousti and Hadi Moradi}, \n
-    year={2021},\n
-    eprint={2109.05522},\n
-    archivePrefix={arXiv},\n
-    primaryClass={cs.CL}\n
+@article{arjmand2021teasel,
+  title={TEASEL: A Transformer-Based Speech-Prefixed Language Model},
+  author={Arjmand, Mehdi and Dousti, Mohammad Javad and Moradi, Hadi},
+  journal={arXiv preprint arXiv:2109.05522},
+  year={2021}
 }
-
 ~~~
 
 
